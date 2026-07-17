@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables (sensitive info - DO NOT commit)
+.env
+.env.local
+.env.production
+backend/.env
